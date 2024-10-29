@@ -1,0 +1,3 @@
+﻿  main.cpp
+F:\Игорь\C++\Plants\Plants\main.cpp(61,12): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+  Plants.vcxproj -> F:\Игорь\C++\Plants\x64\Debug\Plants.exe
